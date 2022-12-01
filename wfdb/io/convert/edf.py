@@ -13,6 +13,7 @@ from wfdb.io.record import Record, rdrecord, SIG_UNITS
 from wfdb.io import _url
 from wfdb.io import download
 
+print('Hello from my WFDB fork')
 
 def read_edf(
     record_name,
